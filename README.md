@@ -12,5 +12,6 @@ You can select the amount of RAM and CPU the miner will consume while operating.
 
 ## Donations
 * Donation is only: 0.1%
-## GUI
 
+## GUI
+![GUI](https://raw.githubusercontent.com/AnglerCodeTeam/VelvetMiner/main/Example.png)
