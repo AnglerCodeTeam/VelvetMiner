@@ -4,7 +4,7 @@ Velvet Miner is a high performance, open source unified CPU miner.
 Official binaries are available for Windows operating systems.
 
 ## Download
-* **[Download here](https://github.com/xmrig/xmrig/releases)**
+* **[Download here](https://github.com/AnglerCodeTeam/VelvetMiner/releases/)**
 
 ## Usage
 The modern GUI makes it easy to configure the miner.
